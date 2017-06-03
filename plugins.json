@@ -1058,6 +1058,6 @@
 		"name": "KickYourselfRL"
 		"desc": "Very simple ban and kick plugin\nCommunity plugin made by Bennzzy"
 		"jarName": "KickYourselfRL.jar"
-		configName: "Kickyourself Addon"
+		"configName": "Kickyourself Addon"
 	}
 ]
